@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+
+# VS Code settings
+.vscode/
+
+# Backup and temp files
+*.FileListAbsolute.txt
+*.pdb
+*.cache
+Web.config.vb.backup
+
+# Others
+*.dll
+*.exe
+*.log
